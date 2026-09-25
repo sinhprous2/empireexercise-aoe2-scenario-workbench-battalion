@@ -1,0 +1,41 @@
+{
+  "id": 25,
+  "category": "game-offline",
+  "slug": "aoe2-scenario-workbench",
+  "target": "Age of Empires II: Definitive Edition",
+  "appid": "813780",
+  "summaryRu": "Каталог локальных учебных сценариев экономики и составов войск.",
+  "features": [
+    "Local economy exercises",
+    "Army matchup worksheets",
+    "Scenario version notes"
+  ],
+  "title": "EmpireExercise — Age of Empires II: Definitive Edition — Battalion",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "EmpireExercise",
+  "repositoryName": "empireexercise-aoe2-scenario-workbench-battalion",
+  "githubTopics": [
+    "age-of-empires-ii-definitive-edition",
+    "scenario-planning",
+    "economy-practice",
+    "army-comparison",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "battalion"
+}
